@@ -1,7 +1,7 @@
 {
-  "name": "video-pause-ios17-issue",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "angular-standalone"
+	"name": "video-pause-ios17-issue",
+	"integrations": {
+		"capacitor": {}
+	},
+	"type": "angular-standalone"
 }
