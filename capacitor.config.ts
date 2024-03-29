@@ -8,6 +8,9 @@ const config: CapacitorConfig = {
 		androidScheme: 'https',
 		iosScheme: 'co-connect',
 	},
+	ios: {
+		preferredContentMode: 'mobile',
+	},
 };
 
 export default config;
