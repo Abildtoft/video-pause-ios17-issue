@@ -1,7 +1,7 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-	appId: 'dk.consensus.com.ios17-video-issue',
+	appId: 'dk.consensus.com.ios17videoissue',
 	appName: 'Video Issue',
 	webDir: 'www',
 	server: {
